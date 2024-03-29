@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinusha Ekanayake
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning BSc. in Computer Science at IIT Sri Lanka.
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently Studies Bachelor of Science Honours in Artificial Intelligence at University of Moratuwa
 - 💞️ I’m looking to collaborate on App Developments
 - 📫 Contact : dinushabawantha2003@gmail.com
 
