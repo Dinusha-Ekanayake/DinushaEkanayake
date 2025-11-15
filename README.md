@@ -1,5 +1,3 @@
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/440cd0d0-cb8a-4c9e-9ad7-aac959183df3" /><div align="center">
-  
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Dinusha Ekanayake
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=AI/ML+Developer;MlOps+Enthusiast;AI+Undergraduate)](https://git.io/typing-svg)
