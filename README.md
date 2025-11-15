@@ -16,6 +16,8 @@
 <br>
 <br>
  <a href="https://www.linkedin.com/in/dinusha-ekanayake-0a0963266/?skipRedirect=true"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /><a/>
+  <a href="https://www.instagram.com/dinusha_ekanayake/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+   <a href="https://www.facebook.com/dinusha.ekanayake.761868" target="_blank"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter"/></a>
  
 
 ###
