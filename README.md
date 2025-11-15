@@ -116,6 +116,10 @@
   <img src="https://profile-counter.glitch.me/Dinusha-Ekanayake/count.svg?"  />
 </div>
 
+<p align="center">
+<img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ###
 <!-- Snake Action -->
 <picture>
