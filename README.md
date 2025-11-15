@@ -99,19 +99,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinusha-Ekanayake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinusha-Ekanayake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center" style="display:flex; gap:10px; justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinusha-Ekanayake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinusha-Ekanayake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
+
+<!-- <p align="center">
+
+</p> -->
 
 ###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinusha-Ekanayake&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ###
