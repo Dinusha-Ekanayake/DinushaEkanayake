@@ -1,19 +1,3 @@
-```markdown
-# Hi, I’m Dinusha Ekanayake 👋
-
-[![Kaggle](images/kaggle-badges.svg)](https://www.kaggle.com/dinushaekanayake)
-
-- 👋 Hi, I’m Dinusha Ekanayake
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently Studies Bachelor of Science Honours in Artificial Intelligence at University of Moratuwa
-- 💞️ I’m looking to collaborate on App Developments
-- 📫 Contact : dinushabawantha2003@gmail.com
-
----
-
-*This Kaggle badge image is updated automatically by a GitHub Action (scripts/update_kaggle_badges.py).* 
-```
-
 <div align="center">
   
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Dinusha Ekanayake
@@ -123,13 +107,13 @@
 ###  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Husniahmed10&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinusha-Ekanayake&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Husniahmed10/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Dinusha-Ekanayake/count.svg?"  />
 </div>
 
 ###
