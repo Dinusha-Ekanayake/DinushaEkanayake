@@ -62,10 +62,7 @@
   <img src="https://cdn.simpleicons.org/keras" height="40" alt="rstudio logo"  />
   <img width="12" />
   
-
 </div>
-
-
 
 ###
 
@@ -117,12 +114,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinusha-Ekanayake&theme=tokyo-night&area=true&hide_border=true" />
 </p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dinusha-Ekanayake/count.svg?"  />
-</div>
 
 ###
 <!-- Snake Action -->
