@@ -15,14 +15,17 @@
 📫 Reach me at
 <br>
 <br>
- <a href="https://www.linkedin.com/in/dinusha-ekanayake-0a0963266/?skipRedirect=true"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /><a/>
-  <a href="https://www.instagram.com/dinusha_ekanayake/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-   <a href="https://www.facebook.com/dinusha.ekanayake.761868" target="_blank"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter"/></a>
+ <a href="https://www.linkedin.com/in/dinusha-ekanayake-0a0963266/?skipRedirect=true"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /><a/> 
+ <img width="12" />
+  <a href="https://www.instagram.com/dinusha_ekanayake/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
+  <img width="12" />
+  <a href="https://www.facebook.com/dinusha.ekanayake.761868" target="_blank"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter"/></a>
+  <img width="12" />
  
 
 ###
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left">Programming Languages/ Tech Stack</h2>
 
 ###
 
@@ -37,6 +40,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="r logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="git logo"  />
+  <img width="12" />
   
 </div>
 
@@ -49,19 +60,13 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/numpy-150458?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="cv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/keras" height="40" alt="rstudio logo"  />
   <img width="12" />
   
 </div>
@@ -87,12 +92,19 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="git logo"  />
+  <img width="12" />
+  
  
 </div>
 
