@@ -1,4 +1,4 @@
-<div align="center">
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/440cd0d0-cb8a-4c9e-9ad7-aac959183df3" /><div align="center">
   
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Dinusha Ekanayake
 
@@ -50,8 +50,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
- 
-  
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_002_2_00x.png" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 ###
