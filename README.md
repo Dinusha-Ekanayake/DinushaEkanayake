@@ -110,15 +110,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinusha-Ekanayake&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
+<p align="center">
+<img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dinusha-Ekanayake/count.svg?"  />
 </div>
-
-<p align="center">
-<img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ###
 <!-- Snake Action -->
